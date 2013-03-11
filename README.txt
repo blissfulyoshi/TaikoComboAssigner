@@ -1,4 +1,6 @@
 This program automates associating taiko combo colors with their associative hitobjects.
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+To run this program, make sure you have 6 combo colors to start!
 
 Combos are associated in this order:
 Key: (# of combo color). (Taiko representation) = (Code Representation)
@@ -13,9 +15,8 @@ To use this program, put the contents of your .osu in the topbox, and press proc
 
 If you have any questions about the program or suggestions for improvements please drop by http://osu.ppy.sh/forum/t/121948/
 =~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
-
 Known Bugs:
-	Combo Colors shift by 1 color, after a spinner where both snotes directly before and after the spinner need the same combo color. (http://osu.ppy.sh/forum/t/121687)
+	Combo Colors shift by 1 color, after a spinner where both notes directly before and after the spinner need the same combo color. (http://osu.ppy.sh/forum/t/121687)
 
 =~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
 Changelog: 
